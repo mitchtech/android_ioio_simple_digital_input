@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO Simple Digital Input</string>
+    <string name="button1">Button 1 :</string>
+    <string name="button2">Button 2 :</string>
+
+</resources>
